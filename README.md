@@ -1,9 +1,8 @@
 # FireFightingBot
 
-https://www.youtube.com/watch?v=3Rdn_4wFU9I
 
 
-<img width="320" alt="image" src="https://user-images.githubusercontent.com/57800546/153726201-7b1a8bb0-1502-432c-a56a-f1550ea165ea.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/57800546/153726201-7b1a8bb0-1502-432c-a56a-f1550ea165ea.png">
 
 
 ## Theme
