@@ -1,8 +1,7 @@
 # FireFightingBot
 
 
-
- <img width="520" height ="320" alt="image" src="https://github.com/Usgupta/FireFightingBot/blob/main/Fire%20Fighting%20bot%20youtube%20version.gif">  <img width="420" height ="320" alt="image" src="https://user-images.githubusercontent.com/57800546/153726201-7b1a8bb0-1502-432c-a56a-f1550ea165ea.png">
+<img width="420" height ="320" alt="image" src="https://user-images.githubusercontent.com/57800546/153726201-7b1a8bb0-1502-432c-a56a-f1550ea165ea.png"> <img width="520" height ="320" alt="image" src="https://github.com/Usgupta/FireFightingBot/blob/main/Fire%20Fighting%20bot%20youtube%20version.gif">
 
 ## Theme
 
